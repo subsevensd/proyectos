@@ -22,7 +22,7 @@ $num_file = mysql_num_rows($contenedor);
 for($i=0;$i<$num_file;$i++){
 
 	$file = mysql_fetch_array($contenedor);
-	echo "<table style=\"border: 2px solid red; background-color:blue;\"><tr><td>".$file['nombre']."</td><td>".$file['email']."</td><td>".$file['pais']."</td></tr></table>";
+	echo "<table style=\"border: 3px solid red; background-color:blue;\"><tr><td>".$file['nombre']."</td><td>".$file['email']."</td><td>".$file['pais']."</td></tr></table>";
 	
 
 
