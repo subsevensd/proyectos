@@ -51,6 +51,10 @@
 	
 	</fieldset>
 </form>
-	
-</body>
-</html>
+	<!--- inicio codigo www.gratisparaweb.com --->
+<div align="center">
+<a href="http://contadores.gratisparaweb.com" target="_blank">
+<img src="http://www.gratisparaweb.com/contadores/imagen.php?contador=15&id2=90" alt="Contadores" border="0">
+</a>
+
+<img src="http://contadorgratis.web-kit.org/img210898-d027c10b1e4e4d0e8579b68fd8c72d.gif" border="0" >
