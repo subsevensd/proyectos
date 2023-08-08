@@ -19,6 +19,7 @@
 		$arc = fopen($ar,"w"); // cuando abrimos con w se pierde lo anterior esto no nos importa por que ya tenemos $cont
 		$es = fwrite($arc,$cont);
 		fclose($arc);
+//comentario 
 		
 	
 	
